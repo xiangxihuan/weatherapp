@@ -1,0 +1,11 @@
+#fdd73f 
+
+#e7648f
+
+#dd4879
+
+
+background: -webkit-linear-gradient(#dd4879 , #fdd73f);
+background: -o-linear-gradient(#dd4879 , #fdd73f);
+background: -moz-linear-gradient(#dd4879 , #fdd73f);
+background: linear-gradient(#dd4879 , #fdd73f);
